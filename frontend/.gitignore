@@ -1,0 +1,10 @@
+*.o
+*.lo
+*.a
+*.so
+build/
+.deps/
+*~
+*.swp
+*.swo
+*.glade~

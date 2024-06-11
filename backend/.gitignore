@@ -1,0 +1,23 @@
+.idea
+*.iws
+*.iml
+*.ipr
+
+.DS_Store
+
+### PyCharm ###
+__pycache__/
+*.py[cod]
+.pytest_cache
+
+### Virtualenv ###
+ENV
+venv
+
+.env
+
+bin/
+lib/
+pyvenv.cfg
+request.c
+
